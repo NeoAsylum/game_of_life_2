@@ -24,10 +24,9 @@ A high-performance evolutionary simulation where hundreds of neural-network-cont
     cd game_of_life_2
     ```
 
-3.  **Create Virtual Environment and Install Dependencies**:
+3.  **Install Dependencies**:
     ```bash
-    uv venv
-    uv pip install -r requirements.txt
+    uv sync
     ```
 
 ## Usage

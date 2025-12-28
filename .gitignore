@@ -1,0 +1,19 @@
+# Environments
+.venv/
+env/
+venv/
+lib/
+bin/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs and Data
+simulation_log.csv
+checkpoint.pkl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

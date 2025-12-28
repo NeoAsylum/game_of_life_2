@@ -1,5 +1,0 @@
-numpy
-pygame
-matplotlib
-pandas
-plotly
