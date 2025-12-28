@@ -20,8 +20,8 @@ A high-performance evolutionary simulation where hundreds of neural-network-cont
 
 2.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/neural-snake-ecosystem.git
-    cd neural-snake-ecosystem
+    git clone https://github.com/NeoAsylum/game_of_life_2.git
+    cd game_of_life_2
     ```
 
 3.  **Create Virtual Environment and Install Dependencies**:
